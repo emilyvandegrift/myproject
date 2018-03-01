@@ -9,4 +9,5 @@ import pandas as pd
 
 dat = pd.read_csv('data/gapminder_gdp_europe.csv')
 oceania = pd.read_csv('data/gapminder_gdp_oceania.csv')
+asia = pd.read_csv('data/gapminder_gdp_asia.csv')
 
